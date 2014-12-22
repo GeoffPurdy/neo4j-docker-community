@@ -1,4 +1,5 @@
 # Neo4j Community Docker Image
+# forked from seenickcode on GitHub
 
 A nice, clean image of Neo4j Community with appropriate documentation. This image of Neo4j also allows users to mount their Neo4j ``data`` directory via:
 
